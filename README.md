@@ -18,6 +18,6 @@ A tiny Bash utility to find all Git repositories under a directory and run `git 
 
 1. Clone (or download) this repo:
    ```sh
-   git clone https://github.com/<your-username>/update-repos.git
+   git clone https://github.com/johnsou/update-repos.git
    cd update-repos
    ```
